@@ -1,5 +1,11 @@
 # 🐕 RoboDog
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Embedded-red)
+![ESP32](https://img.shields.io/badge/ESP32-IoT-green)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 > An AI-powered quadruped robot built using Raspberry Pi, ESP32, and Computer Vision for autonomous navigation, obstacle detection, and intelligent interaction.
 
 ---
