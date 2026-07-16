@@ -1,29 +1,30 @@
 # 🐕 RoboDog
 
-An intelligent quadruped robot designed for autonomous navigation, obstacle avoidance, computer vision, and real-time monitoring.
+> An AI-powered quadruped robot built using Raspberry Pi, ESP32, and Computer Vision for autonomous navigation, obstacle detection, and intelligent interaction.
 
 ---
 
-## 🚀 Overview
+## 📌 Overview
 
-RoboDog is a robotics project that combines embedded systems, AI, and computer vision to create a four-legged autonomous robot capable of navigating its surroundings and interacting with the environment.
+RoboDog is a robotics project that combines embedded systems, artificial intelligence, and computer vision to create an autonomous four-legged robot. It is designed to navigate environments, detect obstacles, and provide a platform for future AI-powered robotics research.
 
 ---
 
 ## ✨ Features
 
-- Autonomous Navigation
-- Obstacle Detection & Avoidance
-- Computer Vision
-- Wireless Control
-- Real-Time Sensor Monitoring
-- Modular Hardware Design
-- Raspberry Pi + ESP32 Architecture
-- Servo Motor Based Quadruped Locomotion
+- 🤖 Quadruped Robot Design
+- 🧠 AI-Based Decision Making
+- 📷 Computer Vision Integration
+- 🚧 Obstacle Detection & Avoidance
+- 📡 Wireless Communication
+- ⚡ Raspberry Pi + ESP32 Architecture
+- 🔋 Battery Powered
+- 🦾 Servo Motor Control
+- 🛠 Modular Hardware Design
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Hardware
 
@@ -32,57 +33,77 @@ RoboDog is a robotics project that combines embedded systems, AI, and computer v
 - Servo Motors
 - Ultrasonic Sensor
 - Camera Module
-- Battery Management System
+- Li-ion Battery
 
 ### Software
 
 - Python
 - OpenCV
-- Flask
 - Arduino IDE
+- Flask
 
 ---
 
 ## 📂 Project Structure
 
-```
-RoboDog/
+```text
+Robodog/
 │
-├── hardware/
-├── firmware/
-├── software/
-├── images/
-├── documents/
-└── README.md
+├── Hardware/
+├── Software/
+├── Images/
+├── Documentation/
+├── README.md
+└── LICENSE
 ```
 
 ---
 
-## 📸 Project Images
+## ⚙️ Working
 
-Add project images here.
-
-- Front View
-- Side View
-- Internal Components
-- Circuit Diagram
+1. Camera captures surroundings.
+2. Raspberry Pi processes images.
+3. AI decides robot movement.
+4. ESP32 controls servo motors.
+5. Robot walks while avoiding obstacles.
 
 ---
 
-## ⚙️ Future Improvements
+## 🚀 Future Enhancements
 
 - SLAM Navigation
+- ROS 2 Integration
 - Voice Commands
 - Face Recognition
-- Object Tracking
-- ROS Integration
-- AI-based Path Planning
 - Gesture Control
+- GPS-Denied Navigation
+- Object Tracking
+- AI Path Planning
 
 ---
 
-## 👨‍💻 Author
+## 📈 Project Status
+
+🟢 Active Development
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome. Feel free to fork the repository and submit a Pull Request.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👩‍💻 Author
 
 **Akarshi Srivastava**
 
 Engineering Student | Robotics | AI | Embedded Systems
+
+GitHub: https://github.com/Akarshi27
